@@ -1,6 +1,6 @@
 # Projeto IMDb – Analise do Sucessos do Cinema
 
-Este projeto foi desenvolvido como parte de um desafio de ciência de dados. O objetivo foi compreender os fatores que influenciam o desempenho de um filme e construir um modelo capaz de prever a nota do IMDb a partir de diferentes variáveis disponíveis.
+Este projeto foi desenvolvido com o objetivo de compreender os fatores que influenciam o desempenho de um filme e construir um modelo capaz de prever a nota do IMDb a partir de diferentes variáveis disponíveis.
 
 O trabalho foi dividido em três etapas principais: análise exploratória dos dados (EDA), respostas analíticas para perguntas-chave e modelagem preditiva.
 
@@ -57,7 +57,6 @@ O repositório contém:
 
 1. Crie um ambiente virtual.  
 2. Instale as dependências com:  
-   ```bash
-   pip install -r requirements.txt
+   ``pip install -r requirements.txt
 3. Abra o notebook em notebooks/ para explorar a análise.
 4. Caso queira testar previsões, carregue o arquivo salvo em models/model.pkl e utilize a função de predição com as variáveis do filme desejado.
